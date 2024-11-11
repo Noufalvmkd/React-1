@@ -1,0 +1,22 @@
+.card{
+    border: 1px solid gray;
+    width: 300px;
+    height: 150px;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+}
+.Product-title{
+    color: rgb(255, 0, 234);
+}
+.Product-description{
+    color: brown;
+}
+.Product-price{
+    font-weight: 700;
+    color: blue;
+}
+.Product-image{
+    height: 150px;
+    object-fit: contain;
+}
